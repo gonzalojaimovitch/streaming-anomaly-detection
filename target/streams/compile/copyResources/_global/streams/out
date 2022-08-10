@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bigdata/Descargas/codigo-sparkinvoice/src/main/resources/online_retail.csv,/home/bigdata/Descargas/codigo-sparkinvoice/target/scala-2.11/classes/online_retail.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bigdata/Descargas/codigo-sparkinvoice/src/main/resources/production.csv,/home/bigdata/Descargas/codigo-sparkinvoice/target/scala-2.11/classes/production.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bigdata/Descargas/codigo-sparkinvoice/src/main/resources/training.csv,/home/bigdata/Descargas/codigo-sparkinvoice/target/scala-2.11/classes/training.csv)[0m
