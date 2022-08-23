@@ -21,7 +21,7 @@ The training is performed offline. For starting the training, the user can call 
 ### Kafka setup
 
 
-First of all, the user needs to make sure that Zookeper and Kafka servers are initialized. All Kafka and Zookeeper related command should be run from the Kafka folder in /opt.
+First of all, the user needs to make sure that Zookeper and Kafka servers are initialized.
 
 
 ```bash
